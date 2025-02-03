@@ -4,10 +4,10 @@
 
 Focused on enhancing my **backend development** skills with **Node.js**, **Express.js**, and **MongoDB**, while further advancing my expertise in **React.js** and **Next.js**.
 
-## 📝 What I'm Learning & Building  
+<!-- ## 📝 What I'm Learning & Building  
 - **Frontend Development:** Crafting responsive and visually appealing web applications with React.js, Next.js, and Tailwind CSS.  
 - **Backend Development:** Diving deep into Node.js, Express.js, and MongoDB to expand my backend proficiency.  
-- **Shopify Development:** Customizing and optimizing Shopify stores (Liquid) to provide enhanced e-commerce experiences.  
+- **Shopify Development:** Customizing and optimizing Shopify stores (Liquid) to provide enhanced e-commerce experiences.-->
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-saini06&layout=compact&theme=radical)
