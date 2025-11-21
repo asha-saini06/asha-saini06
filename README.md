@@ -1,4 +1,4 @@
-# 👋 Greetings! I'm Asha Saini
+## 👋 Greetings! I'm Asha Saini
 
 💻 **Frontend Developer** | 🚀 **Aspiring Full-Stack Developer** | 🛍️ **Shopify Enthusiast**
 
@@ -9,10 +9,10 @@ Focused on enhancing my **backend development** skills with **Node.js**, **Expre
 - **Backend Development:** Diving deep into Node.js, Express.js, and MongoDB to expand my backend proficiency.  
 - **Shopify Development:** Customizing and optimizing Shopify stores (Liquid) to provide enhanced e-commerce experiences.-->
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-saini06&layout=compact&theme=radical)
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
