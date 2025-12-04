@@ -9,8 +9,8 @@ Focused on enhancing my **backend development** skills with **Node.js**, **Expre
 - **Backend Development:** Diving deep into Node.js, Express.js, and MongoDB to expand my backend proficiency.  
 - **Shopify Development:** Customizing and optimizing Shopify stores (Liquid) to provide enhanced e-commerce experiences.-->
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-saini06&layout=compact&theme=radical)
+<!-- ### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-saini06&layout=compact&theme=radical) -->
 
 ### 🛠️ Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
